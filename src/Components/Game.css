@@ -1,0 +1,13 @@
+.Game {
+  position: relative;
+  border: 5px solid #37474F;
+  width: 400px;
+  min-height: 400px;
+  max-width: 100vw;
+  padding: 15px 10px;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  -ms-align-items: flex-start;
+  align-items: flex-start;
+}

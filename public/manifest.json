@@ -1,0 +1,8 @@
+{
+  "short_name": "Triqui",
+  "name": "Crear muestra de la aplicación",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,6 @@
+.Question__answers {
+  display: flex;
+}
+.Question__answers button {
+  flex: 1;
+}

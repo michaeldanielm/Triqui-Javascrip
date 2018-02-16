@@ -1,0 +1,15 @@
+.statsContainer__heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.statsContainer__heading h4 {
+  margin: 10px 0px;
+}
+
+#menuLink {
+  font-size: 1.25rem;
+  text-decoration: none;
+  color: inherit;
+}
